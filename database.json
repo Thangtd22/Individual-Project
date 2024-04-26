@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Laptop Asus ROG Strix SCAR 18 G834JY-N6039W",
+      "price": 2000000000,
+      "quantity": 10,
+      "catId": 1,
+      "createAt": "2024/2/20",
+      "status": true,
+      "image": "product1.png"
+    },
+    {
+      "id": "P002",
+      "name": "IPhone 14 Pro Max 512GB",
+      "price": 5000000000,
+      "quantity": 1,
+      "catId": 2,
+      "createAt": "2024/7/12",
+      "status": false,
+      "image": "product2.png"
+    },
+    {
+      "id": "P003",
+      "name": "Laptop Dell Latitude 3520",
+      "price": 3000000000,
+      "quantity": 15,
+      "catId": 1,
+      "createAt": "2023/12/20",
+      "status": true,
+      "image": "product3.png"
+    },
+    {
+      "id": "P004",
+      "name": "Galaxy Z Fold5 5G",
+      "price": 100000000,
+      "quantity": 11,
+      "createAt": "2024-04-16",
+      "catId": 2,
+      "status": true,
+      "image": "product4.png"
+    },
+    {
+      "id": "P005",
+      "name": "MacBook Pro 16 inch M3 Pro Max 2023",
+      "price": 100000000,
+      "quantity": 9,
+      "createAt": "2024-05-16",
+      "catId": 1,
+      "status": true,
+      "image": "product5.png"
+    },
+    {
+      "id": "P006",
+      "name": "realme C30s (3GB/64GB)",
+      "price": 190000000,
+      "quantity": 5,
+      "createAt": "2024-05-16",
+      "catId": 2,
+      "status": true,
+      "image": "product6.png"
+    },
+    {
+      "id": "P007",
+      "name": "Dell XPS 13 Plus 9320 2023 Core i7-1360P RAM 32GB SSD 1TB OLED Touch",
+      "price": 234000000,
+      "quantity": 5,
+      "createAt": "2024-05-16",
+      "catId": 1,
+      "status": true,
+      "image": "product7.png"
+    },
+    {
+      "id": "P008",
+      "name": "Galaxy Note 20 Ultra 5G",
+      "price": 410000000,
+      "quantity": 5,
+      "createAt": "2024-05-16",
+      "catId": 2,
+      "status": true,
+      "image": "product8.png"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "may tinh"
+    },
+    {
+      "id": 2,
+      "name": "dien thoai"
+    },
+    {
+      "id": 3,
+      "name": "tivi"
+    }
+  ],
+  "accounts": [
+    {
+      "id": "A001",
+      "email": "thang@gmail.com",
+      "password": "123",
+      "gender": "male",
+      "dob": "1/2/2024",
+      "role": "admin"
+    },
+    {
+      "id": "A002",
+      "email": "aaaa@gmail.com",
+      "password": "422",
+      "gender": "female",
+      "dob": "1/2/2003",
+      "role": "user"
+    },
+    {
+      "id": "A003",
+      "email": "davi@gmail.com",
+      "password": "222",
+      "gender": "female",
+      "dob": "2/2/2013",
+      "role": "user"
+    },
+    {
+      "id": "A004",
+      "email": "karthus@gmail.com",
+      "password": "666",
+      "gender": "male",
+      "dob": "6/8/2001",
+      "role": "admin"
+    }
+  ]
+}
